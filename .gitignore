@@ -1,0 +1,11 @@
+# Environment files
+.env
+**/.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
